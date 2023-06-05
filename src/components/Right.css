@@ -1,0 +1,191 @@
+.right{
+    position: absolute;
+width: 300px;
+height: 530px;
+left: 1040px;
+top: 107px;
+
+background: #FFFFFF;
+border-radius: 16px;
+}
+.right img{
+    position: absolute;
+width: 180px;
+height: 180px;
+left: 67px;
+top: 40px;
+}
+.right1 p{
+    position: absolute;
+width: 93px;
+height: 20px;
+left: 110px;
+top: 206px;
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+
+
+color: #1A1A1A;
+}
+.right1 span{
+    position: absolute;
+width: 108px;
+height: 17px;
+left: 103px;
+top: 250px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+
+
+color: #A7A7A7;
+}
+.right1 img{
+    position: absolute;
+width: 138px;
+height: 36px;
+left: 88px;
+top: 283px;
+}
+.right1 h6{
+    position: absolute;
+width: 93px;
+height: 15px;
+left: 1px;
+top: 320px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+color: #1A1A1A;
+}
+.right2 p{
+    position: absolute;
+width: 93px;
+height: 15px;
+left: 42px;
+top: 174px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+color: #1A1A1A;
+}
+.ri p{
+    position: absolute;
+width: 93px;
+height: 15px;
+left: 1037px;
+top: 504px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+
+color: #1A1A1A;
+}
+.ri h5{
+    position: absolute;
+width: 93px;
+height: 15px;
+left: 1034px;
+top: 521px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+
+color: #A7A7A7;
+}
+.ri span{
+    position: absolute;
+width: 93px;
+height: 15px;
+left: 1190px;
+top: 513px;
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+color: #1A1A1A;
+}
+.ri h6{
+    position: absolute;
+    width: 93px;
+    height: 15px;
+    left: 1190px;
+    top: 513px;
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A7A7A7;
+}
+.ri2 p{
+    position: absolute;
+width: 200px;
+height: 15px;
+left: 1047px;
+top: 553px;
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+color: #1A1A1A;
+}
+.one{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 390px;
+}
+.two{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 410px;
+}
+.three{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 426px;
+
+}
+.four{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 440px;
+
+}
+.five{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 454px;
+
+}
+.ri2 span{
+    position: absolute;
+    margin-top: 463px;
+    margin-left: 494px;
+color: #73B0E2;
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 600;
+}
+   

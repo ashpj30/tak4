@@ -1,0 +1,74 @@
+.sbar {
+    position: absolute;
+    width: 241px;
+    height: 559px;
+    left: 1px;
+    top: 0px;
+    background: #152259;
+  }
+  
+  .sbari {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 88px;
+    top: 26px;
+  }
+  
+  .sbar p {
+    margin-top: 110px;
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    width: 241px;
+    text-align: left;
+  }
+  
+  li {
+    display: block;
+    color: #FFFFFF;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  
+  @media screen and (max-width: 700px) {
+    .sbar {
+      position: relative;
+      width: 100%;
+      height: auto;
+      left: 0;
+      top: 0;
+    }
+  
+    .sbari {
+      position: relative;
+      width: 100%;
+      height: auto;
+      left: 0;
+      top: 0;
+      margin-bottom: 20px;
+    }
+  
+    .sbar p {
+      margin-top: 20px;
+    }
+  
+    ul {
+      width: 100%;
+    }
+  
+    li {
+      padding: 8px;
+    }
+  }
+  

@@ -1,0 +1,149 @@
+.home ul {
+    list-style-type: none;
+    margin-left: 214px;
+    overflow: hidden;
+    width: 1000px;
+    display: flex;
+    color: black;
+  }
+  
+  .home li {
+    color: black;
+  }
+  
+  .home p {
+    margin-top: -38px;
+    margin-left: 1100px;
+  }
+  
+  .but1 {
+    background: #509CDB;
+    border-radius: 4px;
+    border: none;
+    height: 33px;
+    width: 100px;
+    color: white;
+  }
+  
+  .but2 {
+    background: white;
+    border-radius: 4px;
+    border: none;
+    height: 33px;
+    width: 100px;
+    color: #509CDB;
+    font-weight: 550;
+  }
+  
+  .home1 {
+    margin-left: 279px;
+    overflow: hidden;
+    width: 900px;
+    display: flex;
+    color: black;
+  }
+  
+  .home1 select {
+    height: 40px;
+    border: none;
+    color: #C4C4C4;
+    margin-top: 14px;
+  }
+  
+  .home1 p {
+    width: 500px;
+    height: 40px;
+    background-color: white;
+  }
+  
+  .home1 img {
+    margin-left: -1px;
+    margin-top: 7px;
+  }
+  
+  .home1 input {
+    border: none;
+    width: 400px;
+    height: 40px;
+    color: #8A8A8A;
+  }
+  
+  .table {
+    list-style-type: none;
+    margin-left: 260px;
+    overflow: hidden;
+    width: 770px;
+    display: flex;
+    color: black;
+    position: absolute;
+    height: 400px;
+    left: -3px;
+    top: 99.33px;
+    overflow-x: hidden;
+    overflow: auto;
+  }
+  
+  td {
+    height: 30px;
+    text-align: left;
+    padding: 7px;
+  }
+  
+  .table th {
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .table tr:nth-child(even) {
+    background-color: rgba(235, 246, 255, 0.5);
+  }
+  
+  .table td:first-child {
+    width: 180px;
+  }
+  
+  .table td:fifth-child {
+    background: #509CDB;
+  }
+  @media screen and (max-width: 900px)
+   {
+    .home ul {
+      margin-left: 150px;
+      width: 800px;
+    }
+  
+    .home1 {
+      margin-left: 150px;
+      width: 700px;
+    }
+  
+    .table {
+      margin-left: 150px;
+      width: 600px;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    .home ul,
+    .home1,
+    .table {
+      margin-left: 0;
+      width: 100%;
+    }
+  
+    .home p {
+      margin-left: 0;
+    }
+  
+    .table {
+      position: static;
+      height: auto;
+      top: auto;
+    }
+  
+    .table td,
+    .table th {
+      padding: 10px;
+    }
+  }
+  
